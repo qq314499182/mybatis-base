@@ -1,8 +1,9 @@
 
 ## 数据库表设计
 数据库表在设计中必须带有如下字段，此为mysql数据，如使用oracle数据库请替换对应数据类型
+
 字段|类型|说明
--|-|-|
+-:|-:|-:
 id | varchar(40)|主键
 creator| varchar(40)|创建人
 create_time  |datetime|创建时间
