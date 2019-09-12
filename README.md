@@ -124,7 +124,11 @@ public class DemoWeb {
 - 分页总条数查询优化
 
 ### 五、鸣谢
-此框架是基于mybatis的@InsertProvider @UpdateProvider @SelectProvider 与 Interceptor拦截器基础上实现的，在这过程中遇到查询结果封装问题，特鸣谢 @ [YingTao8](https://blog.csdn.net/yingtao8)    @[weixin_34228387](https://blog.csdn.net/weixin_34228387)   两位文章的帮助
+此框架是基于mybatis的@InsertProvider @UpdateProvider @SelectProvider 与 Interceptor拦截器基础上实现的.
+在这过程中遇到查询结果封装问题.
+特鸣谢两位同学的帮助
+@[YingTao8](https://blog.csdn.net/yingtao8)    
+@[weixin_34228387](https://blog.csdn.net/weixin_34228387)   
 
  [mybatis 拓展 -- 通用mapper 和 动态 resultMap](https://blog.csdn.net/weixin_34228387/article/details/88762624)
  [mybatis抽取基类BaseMapper(通用增/删/改/查)](https://blog.csdn.net/YingTao8/article/details/83116256)
