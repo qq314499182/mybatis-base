@@ -129,6 +129,6 @@ public class DemoWeb {
 特鸣谢两位同学的帮助
 @[YingTao8](https://blog.csdn.net/yingtao8)   @[weixin_34228387](https://blog.csdn.net/weixin_34228387)   
 
- [mybatis 拓展 -- 通用mapper 和 动态 resultMap](https://blog.csdn.net/weixin_34228387/article/details/88762624)
- [mybatis抽取基类BaseMapper(通用增/删/改/查)](https://blog.csdn.net/YingTao8/article/details/83116256)
- 本文实例代码及具体实现代码已上传 [github](https://blog.csdn.net/weixin_34228387/article/details/88762624)有兴趣的同学欢迎交流学习
+ @[mybatis 拓展 -- 通用mapper 和 动态 resultMap](https://blog.csdn.net/weixin_34228387/article/details/88762624)
+ @[mybatis抽取基类BaseMapper(通用增/删/改/查)](https://blog.csdn.net/YingTao8/article/details/83116256)
+ 
